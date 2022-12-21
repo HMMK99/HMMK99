@@ -2,6 +2,8 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Data Modeling and Data warehousing
 - 📫 How to reach me Just DM me or send email
+- 🔭 I’m currently Fresh graduate and finished Army Services
+- 💬 Ask me about anime and code
 
 <!---
 HMMK99/HMMK99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
