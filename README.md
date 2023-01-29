@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Hatem Kamal
-- 👀 I’m interested in Data Engineering
+<h1 align="center">Hi 👋, I'm Hatem Kamal</h1>
+<h3 align="center">A passionate Software Engineer specially in Data Engineering from Egypt</h3>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HMMK99)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I’m currently learning Data Modeling and Data warehousing
 - 📫 How to reach me Just DM me or send email
 - 🔭 I’m currently Fresh graduate and finished Army Services
 - 💬 Ask me about anime and code
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HMMK99)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
