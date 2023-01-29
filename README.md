@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hatem Kamal</h1>
 <h3 align="center">A passionate Software Engineer specially in Data Engineering from Egypt</h3>
 
+<div id="header" align="center">
+  <img src="https://i.imgur.com/7A5ZfPJ.gif" width="500"/>
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HMMK99)](https://github.com/ryo-ma/github-profile-trophy)
 
