@@ -7,6 +7,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HMMK99)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HMMK99&show_icons=true&locale=en&layout=compact" alt="HMMK99" /></p>
+
+
 
 <!---
 HMMK99/HMMK99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
