@@ -6,8 +6,8 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HMMK99&label=Profile%20views&color=0e75b6&style=flat" alt="HMMK99" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=HMMK99)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HMMK99" alt="HMMK99" /></a> </p>
 - 🌱 I’m currently learning Data Engineering and some React and Django
 - 📫 How to reach me Just DM me or send email
 - 🔭 I’m currently Fresh graduate and finished Army Services
