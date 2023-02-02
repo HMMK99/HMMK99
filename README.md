@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HMMK99&show_icons=true&locale=en&layout=compact" alt="HMMK99" /></p>
 <p align="center"><img src="https://streak-stats.demolab.com?user=HMMK99&theme=flag-india&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&stroke=0211DD" atl="commits_stat" width="420"/></p>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=HMMK99&color=orange"></p>
 
 
 <!---
