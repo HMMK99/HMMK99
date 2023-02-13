@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HMMK99" alt="HMMK99" /></a> </p>
 <p align="center"> 
-- 🌱 I’m currently learning Data Engineering and some React and Django </br>
+- 🌱 I’m currently learning Data Engineering and some React and .NET </br>
 - 📫 How to reach me Just DM me or send email or use the links below </br>
 - 🔭 I’ve finished Army Services and looking for new opportunity </br>
 - 💬 Ask me about gym, anime and code 
