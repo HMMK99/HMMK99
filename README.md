@@ -11,7 +11,9 @@
 - 🌱 I’m currently learning Data Engineering and some React and .NET </br>
 - 📫 How to reach me Just DM me or send email or use the links below </br>
 - 🔭 I’ve finished Army Services and looking for new opportunity </br>
-- 💬 Ask me about gym, anime and code 
+- 💬 Ask me about gym, anime and code  </br>
+- 📫 Know more about me<a href='https://drive.google.com/file/d/1tpMPbVQwHts539rEvXHew2P0qPMMzzT2/view?usp=sharing'> (my cv)</a> 
+
 </p> 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
